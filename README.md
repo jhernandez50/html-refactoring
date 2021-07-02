@@ -1,5 +1,5 @@
 # HTML Refactoring
-On this first assignment, I have modified the code of the HTML and CSS, to make it easier to read and uderstand.
+On this first assignment, I have modified the code of the HTML and CSS, to make it easier to read and understand.
 
 Some of the improvements made to the code are the following
 
